@@ -4,7 +4,7 @@
 ![WhatsApp Image 2024-09-20 at 7 20 52 PM](https://github.com/user-attachments/assets/4aef4b76-48b4-490f-a302-e9e649f12f11)
 
 
-![MensSingles drawio](https://raw.githubusercontent.com/dpjiitkgp/NBC2024/master/MensSingles.drawio.svg)
+![MensSingles drawio](https://raw.githubusercontent.com/dpjiitkgp/NBC2024/master/MensSingles.jpg)
 ![MensDoubles drawio](https://raw.githubusercontent.com/dpjiitkgp/NBC2024/master/MensDoubles.drawio.svg)
 ![MixedDoubles drawio](https://raw.githubusercontent.com/dpjiitkgp/NBC2024/master/MixedDoubles.drawio.svg)
 ![WomensDoubles drawio](https://raw.githubusercontent.com/dpjiitkgp/NBC2024/master/WomensDoubles.drawio.svg)
