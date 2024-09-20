@@ -1,4 +1,4 @@
-![MensSingles drawio](https://github.com/user-attachments/assets/f8bd54e8-9699-4ad9-b730-9f454ab7ce3b)
+![MensSingles drawio](https://github.com/dpjiitkgp/NBC2024/blob/master/MensSingles.drawio.svg)
 ![MensDoubles drawio](https://github.com/user-attachments/assets/5d08858b-08b8-4756-a99d-57b421705852)
 ![MixedDoubles drawio](https://github.com/user-attachments/assets/e8966f8a-3727-4f82-8011-bedec329257f)
 ![WomensDoubles drawio](https://github.com/user-attachments/assets/ab6ce01a-afac-4dcf-802c-67537456556d)
