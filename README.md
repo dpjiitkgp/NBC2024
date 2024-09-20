@@ -1,5 +1,6 @@
 
-![WhatsApp Image 2024-09-13 at 2 57 35 PM](https://github.com/user-attachments/assets/4500e5c6-1608-4c77-b697-c76dc6cd035f)
+<img width="1234" alt="Screenshot 2024-09-20 at 11 21 10 PM" src="https://github.com/user-attachments/assets/942dbba6-7d8a-4a84-8055-0605b724406d">
+
 
 ![WhatsApp Image 2024-09-20 at 7 20 52 PM](https://github.com/user-attachments/assets/4aef4b76-48b4-490f-a302-e9e649f12f11)
 
